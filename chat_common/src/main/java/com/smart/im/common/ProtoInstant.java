@@ -1,4 +1,4 @@
-package com.smart.im.common.protoBuilder;
+package com.smart.im.common;
 
 /**
  * 常量配置

@@ -3,7 +3,7 @@ package com.smart.im.common.codec;
 import com.google.protobuf.InvalidProtocolBufferException;
 import com.smart.im.common.bean.msg.ProtoMsg;
 import com.smart.im.common.exception.InvalidFrameException;
-import com.smart.im.common.protoBuilder.ProtoInstant;
+import com.smart.im.common.ProtoInstant;
 import com.smart.util.Logger;
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
