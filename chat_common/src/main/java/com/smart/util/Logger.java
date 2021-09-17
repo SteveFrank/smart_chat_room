@@ -1,7 +1,3 @@
-/**
- * Created by 尼恩 @ 疯狂创客圈
- * Time: 下午4:50
- */
 package com.smart.util;
 
 
